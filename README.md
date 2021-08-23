@@ -1,5 +1,7 @@
 # blender-colab
 
+THIS IS A FORK. I fixed some mistakes in the original repository.
+
 <a href="https://colab.research.google.com/github/ynshung/blender-colab/blob/master/blender_render.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 This is a Python script that allows you to render Blender 2.8x scene using Google Colaboratory.
