@@ -1,6 +1,6 @@
 # blender-colab
 
-THIS IS A FORK. I fixed some mistakes in the original repository.
+THIS IS A FORK. I fixed some mistakes in the original repository, and added new versions.
 
 <a href="https://colab.research.google.com/github/AstroNaut244/blender-colab/blob/master/Blender-Rendering.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
